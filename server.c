@@ -1,3 +1,4 @@
+// Credits: https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/
 #include <netdb.h>
 #include <netinet/in.h>
 #include <stdio.h>
